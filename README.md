@@ -40,7 +40,7 @@ The script will automatically claim HOT tokens from the HOT contract at the spec
 
 ## Configuration
 
-Insert your account id, private key and cooldown in seconds like this format:
+Insert your account id, private key and cooldown in seconds like this format in data.txt:
 
 ```
 example.tg/ed25519:your_private_key/your_cooldown
