@@ -1,0 +1,21 @@
+{
+  "name": "hot-claimer-v2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "near-api-js": "^4.0.4"
+  },
+  "devDependencies": {
+    "@types/node": "^22.5.1",
+    "tsx": "^4.19.0",
+    "typescript": "^5.5.4"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "tsx index.ts"
+  }
+}
