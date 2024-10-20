@@ -7,6 +7,7 @@ Automatically claiming HOT tokens from a NEAR Protocol smart contract at specifi
 - Multi-account support
 - Configurable cooldown period between claims
 - Error handling and automatic restart on failure
+- Auto fill balance from first account in data.txt
 
 ## Prerequisites
 
